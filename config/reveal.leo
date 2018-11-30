@@ -132,7 +132,7 @@ vertical: body pane on the botton</t>
 Created by [ag6](https://mdecadp2018.github.io/finalproject-ag6/content/index.html)
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+[2018 Fall 分組網誌ag6](https://github.com/40623116/finalproject-ag6/tree/gh-pages)
 
 
 </t>
