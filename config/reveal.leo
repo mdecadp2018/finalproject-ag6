@@ -124,12 +124,12 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
+<t tx="leo.20180827201621.10">## ag6分組簡報
 
-### 虎科大機械設計工程系
+### finalproject ag6
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [ag6](https://mdecadp2018.github.io/finalproject-ag6/content/index.html)
 &lt;/small&gt;
 
 [2018 Fall 分組網誌](./../blog/index.html)
