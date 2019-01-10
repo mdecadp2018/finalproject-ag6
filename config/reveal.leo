@@ -30,7 +30,7 @@
 <v t="leo.20190111022134.1"><vh>快捷鍵</vh>
 <v t="leo.20190111022134.2"><vh>目的</vh></v>
 </v>
-<v t="leo.20190111044011.1"><vh>執行方法</vh>
+<v t="leo.20190111044011.1" a="E"><vh>執行方法</vh>
 <v t="leo.20190111044011.3" a="E"><vh>執行方法</vh>
 <v t="leo.20190111044011.2"><vh>執行方法</vh></v>
 </v>
@@ -41,7 +41,7 @@
 <v t="leo.20190111044011.6"><vh>每週進度</vh></v>
 </v>
 </v>
-<v t="leo.20190111024147.1"><vh>完成內容</vh>
+<v t="leo.20190111024147.1" a="E"><vh>完成內容</vh>
 <v t="leo.20190111024147.2" a="E"><vh>完成內容</vh>
 <v t="leo.20190111024147.3"><vh>完成內容</vh></v>
 </v>
@@ -55,7 +55,7 @@
 <v t="leo.20190111033057.2"><vh>分球機構</vh></v>
 </v>
 </v>
-<v t="leo.20190111052803.1"><vh>快捷鍵</vh>
+<v t="leo.20190111052803.1" a="E"><vh>快捷鍵</vh>
 <v t="leo.20190111052803.2"><vh>目的</vh></v>
 </v>
 <v t="leo.20190111053330.1" a="E"><vh>pdf</vh>
@@ -170,13 +170,14 @@ Created by [ag6](https://mdecadp2018.github.io/finalproject-ag6/content/index.ht
 
 
 </t>
-<t tx="leo.20180827201621.11">&lt;section&gt;
+<t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
+    &lt;/script&gt;
 &lt;/section&gt;
-
 						
 </t>
-<t tx="leo.20180827201621.12">##鋼球運動系統
+<t tx="leo.20180827201621.12">## 鋼球運動系統
 
 &lt;img style="-webkit-user-select: none;cursor: zoom-in;" src="https://lh3.googleusercontent.com/NCOGm1fYWw9XkHNyiqcxWQfwxksrmS6Gjeoosd62KnsoVku25bulJGKovN2QmIE9FJzumslSvMlb7cyGLsdQZSRdVXCAbtbwuhqQFBW6u1xtzXwlBh8lknPQZJCLSffR-WP5H8dDYpMxUQ3M2b8n3cGtP3PIXdXd6h4elcav_6ncIBhSOP21xcuJ8h_Epl-bBsmx69S7uxd0W4PoGywRIXLA5A9tY0wBzwF2CyChndV7JlXQz7Ij8veWFcz_j9vA-hdzbXktODvJaHXlNf1xLSbnPQL8wOIVQ1eLwSVkg5e7HTX7DS3ooEQCMKiHphdiZ3tTNUdiamtjLn5is4VsUNXNfNlOj45Llx6yB3gj095-fGxBBe_jxsrUSI-RAVASPlnLDBwDXfHWJZ76UKl_D7wotJ0fBPzquKB6Nb3f6k_DeVtwMr6XTCG6paoWhzT5fhM7RkqkOWFn7GmnEdK419KQI2WkBAWIxT-45QmIJkGfIwXiIY4ozaLPZ8hcLTTZtGejWUBCzE8arw4qa7PkXZriHre6QQNzjf8ibSoMNcfhVcC24f9WNqmQRmY8HosFhwjZyA5mAR9HBApEcGuM09CRnGnO1hbaOVfDhW7zcGPYFwP9EUto8S5uwuKcaNPHOGV5oXj-e9v8m6rvHU8IAgbU=w747-h730-no" width="300" height="350"&gt;
 </t>
@@ -514,8 +515,7 @@ make.start()
 </t>
 <t tx="leo.20190111052803.2">## 參考影片
 
-&lt;iframe src="https://youtu.be/5kozgyyANgY" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
+&lt;iframe width="560" height="315" src="https://youtu.be/5kozgyyANgY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20190111053330.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
