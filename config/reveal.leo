@@ -33,7 +33,9 @@
 <v t="leo.20190111044011.1" a="E"><vh>執行方法</vh>
 <v t="leo.20190111044011.3" a="E"><vh>執行方法</vh>
 <v t="leo.20190111044011.2"><vh>執行方法</vh></v>
-<v t="leo.20190111044011.4"><vh>分工</vh></v>
+</v>
+<v t="leo.20190111045025.1" a="E"><vh>執行方法</vh>
+<v t="leo.20190111045025.3"><vh>分工</vh></v>
 </v>
 <v t="leo.20190111044011.5" a="E"><vh>每週進度</vh>
 <v t="leo.20190111044011.6"><vh>每週進度</vh></v>
@@ -51,17 +53,6 @@
 </v>
 <v t="leo.20190111033057.1" a="E"><vh>零件繪製</vh>
 <v t="leo.20190111033057.2"><vh>分球機構</vh></v>
-</v>
-</v>
-<v t="leo.20190111025154.1" a="E"><vh>執行方法</vh>
-<v t="leo.20190111025154.2"><vh>分工</vh>
-<v t="leo.20190111025154.3"><vh>分工</vh></v>
-</v>
-<v t="leo.20190111025154.4"><vh>每週進度</vh>
-<v t="leo.20190111025154.5"><vh>每週進度</vh></v>
-</v>
-<v t="leo.20190111025154.6"><vh>導入影片</vh>
-<v t="leo.20190111025154.7"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
@@ -405,86 +396,6 @@ make.start()
 
 
 </t>
-<t tx="leo.20190111025154.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20190111025154.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20190111025154.3"># 分工
-
-40623116楊子毅:Onshape繪製及組合、V-rep
-40623102吳柔燕:Onshape繪製及組合、簡報
-40623103宋宜蓁:Onshape繪製及網站編輯
-40623108林郁涵:Onshape繪製及final report
-40623110翁俊揚:Onshape繪製及組合、V-rep
-40623113吳承哲:Onshape繪製及組合、V-rep
-
-</t>
-<t tx="leo.20190111025154.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20190111025154.5">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="leo.20190111025154.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190111025154.7">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
 <t tx="leo.20190111032927.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -515,7 +426,7 @@ make.start()
 </t>
 <t tx="leo.20190111033057.2">## 零件繪製
 分球機構
-&lt;img scr="https://lh3.googleusercontent.com/T-5TV41rzI_ZDccBUvU23fQFPcVU-Qcp9kATD1YRVkG-olHDzI6ocJnuU04oKHmXqTSrPl7I2ogVH-C-hg8va3KpcFp1nenjlj-aiWiE_hdkNCzn1S3m56Jov6AWHMtv7PA1aDdp1OSfvWzKImmXuPnL8HRRdjZcQ2zQjjlmfI_Wx0vPtqC3RNmJ3GDvJfGU3rhJdS809A3f_9zBBmgspUh-SyFOLQKYW5nHvVBWOEMAWM7BqzxxE1FTiYVBP9MXSYU4sfm6HL3axvlQCu_oAQbaH8Kja2p_ohkHH5s-Xdgy8L86JSrejeY3deerMRnKkNiw3c-agXD7vDxhy7rXkozb0bw1Ku_y5dAaehQNwmPzycdyTYzBue8AB-sbSiuqDErJELjtMFP-l9YhaakZKBag5vreLn3WRaEnkSrCcto1nqoirFt8MaKqCNN0GaDABSFAs0SSmGF_cf-zMzayhnnQ2lNKqBUAu682AlQyV1k8HT_slntYIT3Zmxz26LXK_jdCxZJd-_9IcW9fC-Bq7kI_7ldq017buhZ-AskxeKc_0nWOuo9rLOswzHv6Vt3ePmTPrcIDz61TVEYeDkYGVyxFVZyruI_aw3pZMGN4e74yMJixoF4ahquItQhjxxAe5JQGKEKrH4f-clauYsDkYNC3=w720-h686-no"height="200"width="200"&gt;
+&lt;&lt;img style="-webkit-user-select: none;" src="https://lh3.googleusercontent.com/T-5TV41rzI_ZDccBUvU23fQFPcVU-Qcp9kATD1YRVkG-olHDzI6ocJnuU04oKHmXqTSrPl7I2ogVH-C-hg8va3KpcFp1nenjlj-aiWiE_hdkNCzn1S3m56Jov6AWHMtv7PA1aDdp1OSfvWzKImmXuPnL8HRRdjZcQ2zQjjlmfI_Wx0vPtqC3RNmJ3GDvJfGU3rhJdS809A3f_9zBBmgspUh-SyFOLQKYW5nHvVBWOEMAWM7BqzxxE1FTiYVBP9MXSYU4sfm6HL3axvlQCu_oAQbaH8Kja2p_ohkHH5s-Xdgy8L86JSrejeY3deerMRnKkNiw3c-agXD7vDxhy7rXkozb0bw1Ku_y5dAaehQNwmPzycdyTYzBue8AB-sbSiuqDErJELjtMFP-l9YhaakZKBag5vreLn3WRaEnkSrCcto1nqoirFt8MaKqCNN0GaDABSFAs0SSmGF_cf-zMzayhnnQ2lNKqBUAu682AlQyV1k8HT_slntYIT3Zmxz26LXK_jdCxZJd-_9IcW9fC-Bq7kI_7ldq017buhZ-AskxeKc_0nWOuo9rLOswzHv6Vt3ePmTPrcIDz61TVEYeDkYGVyxFVZyruI_aw3pZMGN4e74yMJixoF4ahquItQhjxxAe5JQGKEKrH4f-clauYsDkYNC3=w720-h686-no"height="200"width="200"&gt;
 
 
 </t>
@@ -540,23 +451,6 @@ make.start()
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20190111044011.4">## 分工
-
-* 40623116楊子毅:Onshape繪製及組合、V-rep 
-
-* 40623102吳柔燕:Onshape繪製及組合、簡報
-
-* 40623103宋宜蓁:Onshape繪製及網站編輯
-
-* 40623108林郁涵:Onshape繪製及final report
-
-* 40623110翁俊揚:Onshape繪製及組合、V-rep
-
-* 40623113吳承哲:Onshape繪製及組合、V-rep
-
-
-						
-</t>
 <t tx="leo.20190111044011.5">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -579,6 +473,30 @@ make.start()
 * Week17:模擬與測試
 * Week18:期末考週
 
+</t>
+<t tx="leo.20190111045025.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20190111045025.3">## 分工
+
+* 40623116楊子毅:Onshape繪製及組合、V-rep 
+
+* 40623102吳柔燕:Onshape繪製及組合、簡報
+
+* 40623103宋宜蓁:Onshape繪製及網站編輯
+
+* 40623108林郁涵:Onshape繪製及final report
+
+* 40623110翁俊揚:Onshape繪製及組合、V-rep
+
+* 40623113吳承哲:Onshape繪製及組合、V-rep
+
+
+						
 </t>
 </tnodes>
 </leo_file>
