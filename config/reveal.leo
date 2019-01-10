@@ -21,16 +21,16 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>鋼球運動系統</vh></v>
 </v>
-<v t="leo.20190111022134.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20190111022134.1"><vh>快捷鍵</vh>
 <v t="leo.20190111022134.2"><vh>目的</vh></v>
 </v>
-<v t="leo.20190111044011.1" a="E"><vh>執行方法</vh>
+<v t="leo.20190111044011.1"><vh>執行方法</vh>
 <v t="leo.20190111044011.3" a="E"><vh>執行方法</vh>
 <v t="leo.20190111044011.2"><vh>執行方法</vh></v>
 </v>
@@ -41,7 +41,7 @@
 <v t="leo.20190111044011.6"><vh>每週進度</vh></v>
 </v>
 </v>
-<v t="leo.20190111024147.1" a="E"><vh>完成內容</vh>
+<v t="leo.20190111024147.1"><vh>完成內容</vh>
 <v t="leo.20190111024147.2" a="E"><vh>完成內容</vh>
 <v t="leo.20190111024147.3"><vh>完成內容</vh></v>
 </v>
@@ -54,6 +54,12 @@
 <v t="leo.20190111033057.1" a="E"><vh>零件繪製</vh>
 <v t="leo.20190111033057.2"><vh>分球機構</vh></v>
 </v>
+</v>
+<v t="leo.20190111052803.1"><vh>快捷鍵</vh>
+<v t="leo.20190111052803.2"><vh>目的</vh></v>
+</v>
+<v t="leo.20190111053330.1" a="E"><vh>pdf</vh>
+<v t="leo.20190111053330.2"><vh>PDF版次</vh></v>
 </v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
@@ -170,7 +176,7 @@ Created by [ag6](https://mdecadp2018.github.io/finalproject-ag6/content/index.ht
 
 						
 </t>
-<t tx="leo.20180827201621.12"># 鋼球運動系統
+<t tx="leo.20180827201621.12">##鋼球運動系統
 
 &lt;img style="-webkit-user-select: none;cursor: zoom-in;" src="https://lh3.googleusercontent.com/NCOGm1fYWw9XkHNyiqcxWQfwxksrmS6Gjeoosd62KnsoVku25bulJGKovN2QmIE9FJzumslSvMlb7cyGLsdQZSRdVXCAbtbwuhqQFBW6u1xtzXwlBh8lknPQZJCLSffR-WP5H8dDYpMxUQ3M2b8n3cGtP3PIXdXd6h4elcav_6ncIBhSOP21xcuJ8h_Epl-bBsmx69S7uxd0W4PoGywRIXLA5A9tY0wBzwF2CyChndV7JlXQz7Ij8veWFcz_j9vA-hdzbXktODvJaHXlNf1xLSbnPQL8wOIVQ1eLwSVkg5e7HTX7DS3ooEQCMKiHphdiZ3tTNUdiamtjLn5is4VsUNXNfNlOj45Llx6yB3gj095-fGxBBe_jxsrUSI-RAVASPlnLDBwDXfHWJZ76UKl_D7wotJ0fBPzquKB6Nb3f6k_DeVtwMr6XTCG6paoWhzT5fhM7RkqkOWFn7GmnEdK419KQI2WkBAWIxT-45QmIJkGfIwXiIY4ozaLPZ8hcLTTZtGejWUBCzE8arw4qa7PkXZriHre6QQNzjf8ibSoMNcfhVcC24f9WNqmQRmY8HosFhwjZyA5mAR9HBApEcGuM09CRnGnO1hbaOVfDhW7zcGPYFwP9EUto8S5uwuKcaNPHOGV5oXj-e9v8m6rvHU8IAgbU=w747-h730-no" width="300" height="350"&gt;
 </t>
@@ -482,20 +488,48 @@ make.start()
 </t>
 <t tx="leo.20190111045025.3">## 分工
 
-* 40623116楊子毅:Onshape繪製及組合、V-rep 
+* 40623116[楊子毅](https://cad.onshape.com/documents/78e5b40f24c4fdb1a1973c8b/w/c465b43f35eededf385d77e3/e/a7bc9b4b807068fcfdd38660) :Onshape繪製及組合、V-rep 
 
 * 40623102[吳柔燕](https://www.youtube.com/channel/UCOfJg4TRLEr5x0swrcqsD8A/videos?disable_polymer=1) :Onshape繪製及組合、簡報
 
 * 40623103[宋宜蓁](https://www.youtube.com/channel/UCSIBI5bX45XEu-Y-8s7TcgQ/videos?disable_polymer=1) :Onshape繪製及網站編輯
 
-* 40623108林郁涵:Onshape繪製及final report
+* 40623108[林郁涵](https://cad.onshape.com/documents/78e5b40f24c4fdb1a1973c8b/w/c465b43f35eededf385d77e3/e/a7bc9b4b807068fcfdd38660):Onshape繪製及final report
 
-* 40623110翁俊揚:Onshape繪製及組合、V-rep
+* 40623110[翁俊揚](https://cad.onshape.com/documents/78e5b40f24c4fdb1a1973c8b/w/c465b43f35eededf385d77e3/e/a7bc9b4b807068fcfdd38660) :Onshape繪製及組合、V-rep
 
-* 40623113吳承哲:Onshape繪製及組合、V-rep
+* 40623113[吳承哲](https://cad.onshape.com/documents/78e5b40f24c4fdb1a1973c8b/w/c465b43f35eededf385d77e3/e/a7bc9b4b807068fcfdd38660) :Onshape繪製及組合、V-rep
 
 
 						
 </t>
+<t tx="leo.20190111052803.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111052803.2">## 參考影片
+
+&lt;iframe src="https://youtu.be/5kozgyyANgY" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20190111053330.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111053330.2">## pdf版次紀錄
+
+[舊pdf版次紀錄](https://mdecadp2018.github.io/finalproject-ag6/downloads/Final%20project.pdf)
+
+[新pdf版次紀錄](https://mdecadp2018.github.io/finalproject-ag6/downloads/Team%206%20Final%20Report%20.pdf)</t>
 </tnodes>
 </leo_file>
