@@ -32,13 +32,11 @@
 </v>
 <v t="leo.20190111022139.1" a="E"><vh>執行方法</vh>
 <v t="leo.20190111022139.2"><vh>執行方法</vh></v>
-</v>
 <v t="leo.20190111023443.1" a="E"><vh>執行方法</vh>
-<v t="leo.20190111023443.2"><vh>分工</vh>
-<v t="leo.20190111023443.3"><vh>分工</vh></v>
+<v t="leo.20190111023443.2"><vh>分工</vh></v>
 </v>
-<v t="leo.20190111023443.4"><vh>每週進度</vh>
-<v t="leo.20190111023443.5"><vh>每週進度</vh></v>
+<v t="leo.20190111041617.1" a="E"><vh>每週進度</vh>
+<v t="leo.20190111041617.2"><vh>每週進度</vh></v>
 </v>
 </v>
 <v t="leo.20190111024147.1" a="E"><vh>完成內容</vh>
@@ -54,18 +52,6 @@
 <v t="leo.20190111033057.1" a="E"><vh>零件繪製</vh>
 <v t="leo.20190111033057.2"><vh>分球機構</vh></v>
 </v>
-<v t="leo.20190111024147.6"><vh>導入影片</vh>
-<v t="leo.20190111024147.7"><vh>iframe 導入影片</vh></v>
-</v>
-</v>
-<v t="leo.20190111022141.1"><vh>快捷鍵</vh>
-<v t="leo.20190111022141.2"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="leo.20190111022142.1"><vh>快捷鍵</vh>
-<v t="leo.20190111022142.2"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="leo.20190111022144.1"><vh>快捷鍵</vh>
-<v t="leo.20190111022144.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20190111025154.1"><vh>執行方法</vh>
 <v t="leo.20190111025154.2"><vh>分工</vh>
@@ -198,7 +184,7 @@ Created by [ag6](https://mdecadp2018.github.io/finalproject-ag6/content/index.ht
 </t>
 <t tx="leo.20180827201621.12"># 鋼球運動系統
 
-&lt;img scr="https://mdecadp2018.github.io/finalproject-ag6/images/16.png"&gt;
+&lt;img scr="https://mdecadp2018.github.io/finalproject-ag6/images/16.png"height="100"width="100"&gt;
 
 </t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
@@ -397,116 +383,30 @@ make.start()
 </t>
 <t tx="leo.20190111022139.2"># 執行方法
 
-*分工
-*每週進度
-*測驗與修正
+* 分工
+* 每週進度
+* 測驗與修正
 
 
 </t>
-<t tx="leo.20190111022141.1">&lt;section data-markdown&gt;
+<t tx="leo.20190111023443.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
+</t>
+<t tx="leo.20190111023443.2">## 分工
+
+* 40623116楊子毅:Onshape繪製及組合、V-rep
+* 40623102吳柔燕:Onshape繪製及組合、簡報
+* 40623103宋宜蓁:Onshape繪製及網站編輯
+* 40623108林郁涵:Onshape繪製及final report
+* 40623110翁俊揚:Onshape繪製及組合、V-rep
+* 40623113吳承哲:Onshape繪製及組合、V-rep
 
 
 						
 </t>
-<t tx="leo.20190111022141.2"># 投影片快捷鍵
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
-<t tx="leo.20190111022142.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190111022142.2"># 投影片快捷鍵
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
-<t tx="leo.20190111022144.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190111022144.2"># 投影片快捷鍵
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
-<t tx="leo.20190111023443.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20190111023443.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20190111023443.3">## 分工
-
-40623116楊子毅:Onshape繪製及組合、V-rep
-40623102吳柔燕:Onshape繪製及組合、簡報
-40623103宋宜蓁:Onshape繪製及網站編輯
-40623108林郁涵:Onshape繪製及final report
-40623110翁俊揚:Onshape繪製及組合、V-rep
-40623113吳承哲:Onshape繪製及組合、V-rep
-
-</t>
-<t tx="leo.20190111023443.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20190111023443.5">## 每週進度
-
-Week11:
-Week12:
-Week13:
-Week14:
-Week15:
-Week16:
-Week17:
-Week18:</t>
 <t tx="leo.20190111024147.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -523,7 +423,9 @@ Week18:</t>
 
 						
 </t>
-<t tx="leo.20190111024147.3"># 完成內容</t>
+<t tx="leo.20190111024147.3"># 完成內容
+
+</t>
 <t tx="leo.20190111024147.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -537,24 +439,9 @@ Week18:</t>
 </t>
 <t tx="leo.20190111024147.5">## 零件繪製
 組合圖
-&lt;img scr="https://mdecadp2018.github.io/finalproject-ag6/images/16.png"&gt;
+&lt;img scr="https://mdecadp2018.github.io/finalproject-ag6/images/16.png"height="100"width="100"&gt;
 
 
-</t>
-<t tx="leo.20190111024147.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190111024147.7">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20190111025154.1">&lt;section&gt;
 @others
@@ -649,7 +536,7 @@ make.start()
 </t>
 <t tx="leo.20190111032927.2">## 零件繪製
 水車
-&lt;img scr="https://mdecadp2018.github.io/finalproject-ag6/images/14.png"&gt;
+&lt;img scr="https://mdecadp2018.github.io/finalproject-ag6/images/14.png"height="100"width="100"&gt;
 
 
 </t>
@@ -666,8 +553,31 @@ make.start()
 </t>
 <t tx="leo.20190111033057.2">## 零件繪製
 分球機構
-&lt;img scr="https://mdecadp2018.github.io/finalproject-ag6/images/13.png"&gt;
+&lt;img scr="https://mdecadp2018.github.io/finalproject-ag6/images/13.png"height="100"width="100"&gt;
 
+
+</t>
+<t tx="leo.20190111041617.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190111041617.2">## 每週進度
+
+Week11:架設期末倉儲,選擇期末專題
+Week12:分組網站新增簽到表,決定專題
+Week13:初步繪製設計之零件
+Week14:初次組合,進行改版
+Week15:構想新設計與零件
+Week16:組合與模擬
+Week17:模擬與測試
+Week18:期末考週
 
 </t>
 </tnodes>
