@@ -30,13 +30,13 @@
 <v t="leo.20190111022134.1" a="E"><vh>快捷鍵</vh>
 <v t="leo.20190111022134.2"><vh>目的</vh></v>
 </v>
-<v t="leo.20190111022139.1" a="E"><vh>執行方法</vh>
-<v t="leo.20190111022139.2"><vh>執行方法</vh></v>
-<v t="leo.20190111023443.1" a="E"><vh>執行方法</vh>
-<v t="leo.20190111023443.2"><vh>分工</vh></v>
+<v t="leo.20190111044011.1" a="E"><vh>執行方法</vh>
+<v t="leo.20190111044011.3" a="E"><vh>執行方法</vh>
+<v t="leo.20190111044011.2"><vh>執行方法</vh></v>
+<v t="leo.20190111044011.4"><vh>分工</vh></v>
 </v>
-<v t="leo.20190111041617.1" a="E"><vh>每週進度</vh>
-<v t="leo.20190111041617.2"><vh>每週進度</vh></v>
+<v t="leo.20190111044011.5" a="E"><vh>每週進度</vh>
+<v t="leo.20190111044011.6"><vh>每週進度</vh></v>
 </v>
 </v>
 <v t="leo.20190111024147.1" a="E"><vh>完成內容</vh>
@@ -53,7 +53,7 @@
 <v t="leo.20190111033057.2"><vh>分球機構</vh></v>
 </v>
 </v>
-<v t="leo.20190111025154.1"><vh>執行方法</vh>
+<v t="leo.20190111025154.1" a="E"><vh>執行方法</vh>
 <v t="leo.20190111025154.2"><vh>分工</vh>
 <v t="leo.20190111025154.3"><vh>分工</vh></v>
 </v>
@@ -173,12 +173,9 @@ Created by [ag6](https://mdecadp2018.github.io/finalproject-ag6/content/index.ht
 
 
 </t>
-<t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20180827201621.11">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
-
 
 						
 </t>
@@ -372,41 +369,6 @@ make.start()
 透過設計出的鋼球運動系統，將運送模組與軌道模組配合，使鋼球能進行循環運動。
 
 </t>
-<t tx="leo.20190111022139.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190111022139.2"># 執行方法
-
-* 分工
-* 每週進度
-* 測驗與修正
-
-
-</t>
-<t tx="leo.20190111023443.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20190111023443.2">## 分工
-
-* 40623116楊子毅:Onshape繪製及組合、V-rep
-* 40623102吳柔燕:Onshape繪製及組合、簡報
-* 40623103宋宜蓁:Onshape繪製及網站編輯
-* 40623108林郁涵:Onshape繪製及final report
-* 40623110翁俊揚:Onshape繪製及組合、V-rep
-* 40623113吳承哲:Onshape繪製及組合、V-rep
-
-
-						
-</t>
 <t tx="leo.20190111024147.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -439,7 +401,7 @@ make.start()
 </t>
 <t tx="leo.20190111024147.5">## 零件繪製
 組合圖
-&lt;img scr="https://mdecadp2018.github.io/finalproject-ag6/images/16.png"height="100"width="100"&gt;
+&lt;img scr="https://lh3.googleusercontent.com/gG-TKW2WfcA7Ccc1cea3gMjwM0WHkzaob4rMFh8qAuJENyY-24Z9Np6Pmfmzfz0h7vVI6DbK1Uei5VAPP7YlOxFTJdYuCAhCOO9z_Ff_RoSDt8yR7by-99oBw1n4i9bcdGEXHjhPpAmSPggu8g0zItN1RTLH6GdRv0cCklH0plE0kgEgXKKfWS0My7pmTvkX1AUg2bVnnF-R9TkAwe8wRdH6nZaSZJThJsFGJnrsgAb6YMv5CVkfpBHCt0Vp7A05kzGrUgRQPtLGeZnnmZX5N2iiy29YnGGYP8vwOqpUj3IIHrxqO8aCyKoCpXTNIpUonsenGoFqjhqWgQK4tl59LB1-cg4X7qZjAfamzRWPp9tBEK-Hw49h8pqBOJ9NqrzErbM20iVKE3hLXAl2A-rv0RbdeWw6N3AVRcqr6eIMduE1-_N3e2h3qLrRLd6lA63w2pY919ODOe7KeI-PMHJ8ILcwIykWwTJ_XdhGU1a7hvYHy4_rUTYmEm-M2OpN6vskAzLIVWnT2RAfpzKSCogMhABdOClsjKmo98leJxYt1_Qep-uvQMUUAgXDWjxu-W2FXwsi-leD0ya2Gj2W9tKuAnqT39JnI7ILwc4yy4iEhOUbHp6lLmc1JpzWS8dfGV2VFlBBuV2W0M8wGZ0UhkKTI9XL=w747-h730-no"height="200"width="200"&gt;
 
 
 </t>
@@ -536,7 +498,7 @@ make.start()
 </t>
 <t tx="leo.20190111032927.2">## 零件繪製
 水車
-&lt;img scr="https://mdecadp2018.github.io/finalproject-ag6/images/14.png"height="100"width="100"&gt;
+&lt;img scr="hhttps://lh3.googleusercontent.com/r8oGaY0O16vOBYu5vWx5jadkP0YFVDNmkHXUmWV2uy16VaI7yrpx1fpyUL503GkcQ7WV1WJdRFWL_Gda_HZWBa0r1MvTisQ6NtE4AwblgKgrUV2tbV3yeUzVczO3EnbWaw9dyYjRDkvj6rgi4Z38jarx9gAzG-JsMD6vXBBs3CD5mZovk4kHNp1NeyDkSimErKUS7qlA7JUh8rpPPfYti0G-gdLavoysU3Fb-rtmizoESgF4tQaYJDnQKT_FuzNnB93DhcfI7ELxm-K4vPWsDzSDMgN7ixzBu6ah6jhCXqZZUm2q8B75r9qMt3bJrRhD51XkjF2Mbxbs7hHGr0GhDpGfxXsp223HuvMXuZhFgv4bBwsHFc4n90rNl6wAu_Yh5-9aQztOawCfD-oFy2-DPJa21QByyR71orIAR7p7UNPRGjFPNlCwrqrX5ui5rcEfufO0MIfqE2ludW0S9690hKcwwujvO4WnC2IzRs2XgJA8D732AAj-JBi55JyZLJc8k6_gb2KS55yfVy_9nr1_2nnmEr85f9qD1_cjjq-2iSynr63rUEIq2yy2MjsbxQBwXuv8T--I-o96HlIw6GVFbtcGoLYrq-OOJjVHLqO_gs0tRr6vtRvtYUkphnJk1p41XaybbnPjW9ow2eh6aKJvLRHP=w640-h566-no"height="200"width="200"&gt;
 
 
 </t>
@@ -553,11 +515,49 @@ make.start()
 </t>
 <t tx="leo.20190111033057.2">## 零件繪製
 分球機構
-&lt;img scr="https://mdecadp2018.github.io/finalproject-ag6/images/13.png"height="100"width="100"&gt;
+&lt;img scr="https://lh3.googleusercontent.com/T-5TV41rzI_ZDccBUvU23fQFPcVU-Qcp9kATD1YRVkG-olHDzI6ocJnuU04oKHmXqTSrPl7I2ogVH-C-hg8va3KpcFp1nenjlj-aiWiE_hdkNCzn1S3m56Jov6AWHMtv7PA1aDdp1OSfvWzKImmXuPnL8HRRdjZcQ2zQjjlmfI_Wx0vPtqC3RNmJ3GDvJfGU3rhJdS809A3f_9zBBmgspUh-SyFOLQKYW5nHvVBWOEMAWM7BqzxxE1FTiYVBP9MXSYU4sfm6HL3axvlQCu_oAQbaH8Kja2p_ohkHH5s-Xdgy8L86JSrejeY3deerMRnKkNiw3c-agXD7vDxhy7rXkozb0bw1Ku_y5dAaehQNwmPzycdyTYzBue8AB-sbSiuqDErJELjtMFP-l9YhaakZKBag5vreLn3WRaEnkSrCcto1nqoirFt8MaKqCNN0GaDABSFAs0SSmGF_cf-zMzayhnnQ2lNKqBUAu682AlQyV1k8HT_slntYIT3Zmxz26LXK_jdCxZJd-_9IcW9fC-Bq7kI_7ldq017buhZ-AskxeKc_0nWOuo9rLOswzHv6Vt3ePmTPrcIDz61TVEYeDkYGVyxFVZyruI_aw3pZMGN4e74yMJixoF4ahquItQhjxxAe5JQGKEKrH4f-clauYsDkYNC3=w720-h686-no"height="200"width="200"&gt;
 
 
 </t>
-<t tx="leo.20190111041617.1">&lt;section data-markdown&gt;
+<t tx="leo.20190111044011.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190111044011.2"># 執行方法
+
+* 分工
+* 每週進度
+* 測驗與修正
+
+
+</t>
+<t tx="leo.20190111044011.3">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20190111044011.4">## 分工
+
+* 40623116楊子毅:Onshape繪製及組合、V-rep 
+
+* 40623102吳柔燕:Onshape繪製及組合、簡報
+
+* 40623103宋宜蓁:Onshape繪製及網站編輯
+
+* 40623108林郁涵:Onshape繪製及final report
+
+* 40623110翁俊揚:Onshape繪製及組合、V-rep
+
+* 40623113吳承哲:Onshape繪製及組合、V-rep
+
+
+						
+</t>
+<t tx="leo.20190111044011.5">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -568,7 +568,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190111041617.2">## 每週進度
+<t tx="leo.20190111044011.6">## 每週進度
 
 * Week11:架設期末倉儲,選擇期末專題
 * Week12:分組網站新增簽到表,決定專題
