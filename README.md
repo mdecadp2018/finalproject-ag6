@@ -1,6 +1,6 @@
 # 2018fall
 
-分組示範倉儲: https://mdecadp2018.github.io/finalproject-ag6/content/index.html
+分組示範網站: https://mdecadp2018.github.io/finalproject-ag6/content/index.html
 
 部落格：https://mdecadp2018.github.io/finalproject-ag6/blog/index.html
 
