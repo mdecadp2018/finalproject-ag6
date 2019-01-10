@@ -90,8 +90,9 @@
 <p>40623103<span> </span><a href="https://github.com/mdecadp2018/site-40623103/tree/gh-pages">宋宜蓁：</a></p>
 <p>40623108<span> </span><a href="https://github.com/mdecadp2018/site-40623108/tree/gh-pages">林郁涵：</a></p>
 <p>40623110<span> </span><a href="https://github.com/mdecadp2018/site-40623110/tree/gh-pages">翁俊揚：</a></p>
+<p>第十七週設計圖大概都已經完成了，但是V-rep的模擬還是有許多的問題例如:質量的控制、慣性矩的控制還有很常遇到的碰撞的設定，不過也因為期末考的關係，讓我們第十七週的速度減慢了許多，不過希望能夠趕在最後一週前趕出東西來，不管是PDF、網站的設計或者是V-rep的模擬。</p>
 <p>40623113<span> </span><a href="https://github.com/mdecadp2018/site-40623113/tree/gh-pages">吳承哲：</a></p>
-<p>最後一周就要期中考了，我們大致上快好，不過還是有很多問題，一改再改，階梯的問題解決了，換成分球系統不知道怎用，努力地在想但始終都錯，其他物件都可以旋轉或碰撞了，差臨門一腳，得加把勁把它用好，再來就是PDF和投影片了。加油</p>
+<p>最後一周就要期末考了，我們大致上快好，不過還是有很多問題，一改再改，階梯的問題解決了，換成分球系統不知道怎用，努力地在想但始終都錯，其他物件都可以旋轉或碰撞了，差臨門一腳，得加把勁把它用好，再來就是PDF和投影片了。加油</p>
 <p>40623116<span> </span><a href="https://github.com/mdecadp2018/site-40623116/tree/gh-pages">楊子毅：</a></p><h1>Issue＆Solution</h1>
 <h4><strong>日期12/14</strong></h4>
 <p>Q1：我們在操作V-rep上遇到了一些問題，例如說：關節的位置設定跟尺寸及長度不知道怎麼樣去設定及更改。</p>
@@ -99,9 +100,16 @@
 <p>Q2：階梯軌道無法順利作動</p>
 <p><img alt="" height="266" src="/images/556.png" width="473"/></p>
 <p>A：更改軌道樣式，修改成螺旋線型。</p>
-<p>Q3：Onshap零件不是畫 一體放進模擬城市開碰撞會很多</p>
+<p>Q3：Onshap零件不是畫 一體放進模擬程式開碰撞會很多</p>
 <p>A：將零件重新編輯成一體。</p>
-<h1>final report</h1>
+<p>Q4:在模擬的時候常會出現卡球或者是球會越跑越慢得情形。</p>
+<p>A:因為在繪製零件時，本身得斜度就不太足夠，需要加大傾斜角。</p>
+<p>Q5:在幫水車進行模擬的時候，常常會出現亂轉或亂跳的情形。</p>
+<p>A:要先把水車旁邊的其中一個支柱與Base合併，再將已經插好旋轉軸的水車轉動的部分擺在另一邊的支柱底下，開啟水車本體的碰撞將上面的<span style="color: #ff0000;">Local respondable mask</span>那一行的勾勾全部弄掉，這樣一來就可以讓水車轉動了。</p>
+<p>Q6:要怎麼讓軸順、逆轉。</p>
+<p>A:去編輯Joint的地方，點擊最下面的<span style="color: #ff0000;">Show dynamic properties dialog</span>的按鈕，進去之後打勾<span style="color: #ff0000;">Motor enabled</span>編輯底下的<span style="color: #ff0000;">Target velocity</span>的正負就可以改變旋轉的方向了。</p>
+<p>Q7:為什麼明明不是同一個零件但是mesh進V-rep的時候卻會變成一體(不是Divide的問題)</p>
+<p>A:因為零件與零件之間的空格太小了，導致電腦再轉檔的時候會出現自動把兩個很相近的零件視為同一個零件且合併在一起，解決方法就是要把零件與零件間取好適當的距離(經過測試0.1inch即可避免發生此問題)，尤其是在軸與本體上最常發生這類的問題。</p><h1>final report</h1>
 <p><a href="/downloads/Final project.pdf" title="w12 pdf">/downloads/Final project.pdf</a></p>
 <p><a href="/downloads/Team 6 Final Report .pdf">/downloads/Team 6 Final Report .pdf</a></p>
 <p></p>
