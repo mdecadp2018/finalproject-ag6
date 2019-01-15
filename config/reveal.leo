@@ -57,8 +57,11 @@
 <v t="leo.20190115193151.1"><vh>零件繪製</vh>
 <v t="leo.20190115193151.2"><vh>原階梯機構</vh></v>
 </v>
-<v t="leo.20190115194327.1"><vh>零件繪製</vh>
+<v t="leo.20190115194327.1" a="E"><vh>零件繪製</vh>
 <v t="leo.20190115194327.2"><vh>組合圖</vh></v>
+</v>
+<v t="leo.20190111062436.1"><vh>零件繪製</vh>
+<v t="leo.20190111062436.2"><vh>上升裝置</vh></v>
 </v>
 <v t="leo.20190111032927.1"><vh>零件繪製</vh>
 <v t="leo.20190111032927.2"><vh>水車</vh></v>
@@ -66,11 +69,20 @@
 <v t="leo.20190111033057.1"><vh>零件繪製</vh>
 <v t="leo.20190111033057.2"><vh>分球機構</vh></v>
 </v>
-<v t="leo.20190111062434.1"><vh>零件繪製</vh>
-<v t="leo.20190111062434.2"><vh>支撐桿</vh></v>
+<v t="leo.20190115201932.1"><vh>零件繪製</vh>
+<v t="leo.20190115201932.2"><vh>鋼釘林</vh></v>
 </v>
-<v t="leo.20190111062436.1" a="E"><vh>零件繪製</vh>
-<v t="leo.20190111062436.2"><vh>上升裝置</vh></v>
+<v t="leo.20190111062434.1" a="E"><vh>零件繪製</vh>
+<v t="leo.20190111062434.2"><vh>接球檯</vh></v>
+</v>
+<v t="leo.20190115202447.1" a="E"><vh>零件繪製</vh>
+<v t="leo.20190115202447.2"><vh>螺旋軌道1</vh></v>
+</v>
+<v t="leo.20190115202449.1" a="E"><vh>零件繪製</vh>
+<v t="leo.20190115202449.2"><vh>螺旋軌道2</vh></v>
+</v>
+<v t="leo.20190115202451.1"><vh>零件繪製</vh>
+<v t="leo.20190115202451.2"><vh>支撐桿</vh></v>
 </v>
 </v>
 <v t="leo.20190111053330.1" a="E"><vh>pdf</vh>
@@ -551,10 +563,8 @@ make.start()
 						
 </t>
 <t tx="leo.20190111062434.2">## 零件繪製
-支撐桿
-&lt;img style="-webkit-user-select: none;" src="https://lh3.googleusercontent.com/9s-BRkF53TqNGUmQa1w2XkUZUO9Oh4yIlNMsLz22WssrPDm_1O-ZZQEN-Hhll_YcODHTVfzPV0MLi6YsIpicZkuP2yO8RZ7raHv9gUSzeIGFUJwtE3Mfx4XjmgGdm1xRda7r2n-nSqutpd4N7wu_nCFDSiaeK4cL3RuHVbLAMNvfRS34bSWEOcZ1oZgpu7DjndfDxPSGYg_9bk-eswutXaxrzavJGma5WsQVe06m6Y-b5D_z5TtZ7LTXdqOKWW4o2Xt2O9puAdsstRZDvLuS_qNSvhrMYXeYg59K_RHOVzcA0rx1C6zncSUZTNddr5SxdZkiZ_peDyv8g1wa6Lf7EsOIzYRAUVfC-e1oJ56aboJIY1bh4JmxEsxapO0wyg5eXcGsgbaz2R9qzwvq_6aJGXICnRTOPVLJtPGLTtbQObXLXjzX134AJq4Fq0npm6S45bKmhJMUKKwSd8yJfvf4x6TeBJkBbnZJj5CI4F1qG5gX9BCzMsReQNWhqxS0t-cfml_NbOBZnF1PokWd1qpa489Mi21VCz0vrvYQhHrXhzOnTdztd4V1jdLv0GtyLLNeoal2LmsukUUZeUNjY_uQyNGXcUap01kSFt_Q05WQKx62eauPL_IQUiuJgrCDMXlj7oxGlGxlyfkh7sIOapyFNEGF=w176-h720-no"height="200"width="200"&gt;
-
-&lt;img style="-webkit-user-select: none;cursor: zoom-in;" src="https://lh3.googleusercontent.com/IzxOc3VphiGVMb15hVf7hH9_lSkJOlPSvJgYoXdGB-Xpqn_tkMyMxI3RahP729EcPlXKAgZP7BlNjeGTqX7S8xWsscCHF3YWYcLcnAGwjUHJXtWju3DSUbZxm9VFJvZCUqjWr_e3rO78EZDvbkeCDNDtuqNM7xp-CHuyCXwTeYIkI8x4dKfV_XaACfZ0IxEVilI2YkDMNsus2j-mHsK_MmgwPJj5f69YjW4dDNP3YDrdWUXmsMBxad-qQgYDIC4zpRZ_aTGYVpSpSqtur-I49dUc-QVkw7ca3ccBkD9nR1c1cR7dU7MBIYqZmyjdTC_b6gXRCiCtQZDHiNLLPoZ6TFw2e2ax4M2cOMoPv7haW_uV2PdIyApB24jFozc7ayNP0xOu6_TWO1-RUfwRSaAFDTskTteC-WnESHE4rmAeH098b3ZcSozAZPnyzJhwqfaWERkeSTm4oQE98cm7OcsCOmss57aUXf33ksGZMR_8nScaB9w3LAZ-J_sGv0oVrDPTTfWOQzmbCVRtXrcp83gK6e-rdTWvG4f0iCn0yl4wDM5DpWL6D5lhj1qlyk6_HmWKNWYfLTMhHfSgVrp4ZffGlDS7CvfKTfUuPqzP8Rg0o6zil0XNzLDie2ukko4p2ZIQoQ7W8OMxOYZW1aP66_Yr5Hdh=w399-h739-no" width="100" height="200"&gt;
+接球檯
+&lt;img style="-webkit-user-select: none;" src="https://lh3.googleusercontent.com/v4qaSpeFoE2Gm5ZI5BQVQOqXnB2AgjZQFtfVLFCMc4rc1Z63UOVvTpb9DWCFaT1BaE8xewE0wU6cSJKJ1KHdTrgtOjzxbOc9D15OhjKf3uCtmVLN-bFcJQn-KSgQfGHX56s1K6ZdQpVbKSUztQh9WTncmkAyc3Jpkero88EWiEJKOxdZscSkoOdS5gyyuURULvBNSyFcZMXLF4y0tJb-CK9nMVnB9QuT3r1O8-DCF49-3GxblJuYryLzkpxDQ4rMoh9v3Pe3SMMnSy3vuYk9U0Ik4blYZjrgcS2SzdQ4_U5kXG_SqYl51tRxXmn5mZSverEmWJu3WNteu48KzMPWiCePACmiN_TUpiFUNOS4KTQjkGGJjy_1iU7lQO2ApeMp70d0rnrHs1XOyuB3M6Yva_--0Sf_L_sM_9AQHGx8Ny6fVuE54_UU2CVE0vX5_05_sIQ0vlqlDvT0koQrr3ReRNzACl1siiZKqD3jWwoOgWbagJgCCGCFcrJrJSNWUEBbZNvKvjaM5-DR7KOWUHnav6dYkgj-uZP-GDBrjrr6vwV7wgI0dlecxcwHhw0WdpiycuSZf8EyfwPOmYTspiVxL3S7XyRsZX4AOhSBkJFPYKl7H-T6NUtovqc_8NXyN61pp89J05otjDhRpJSEC9vYzWKl=w325-h223-no"width="100" height="200"&gt;
 
 
 
@@ -605,8 +615,8 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190115194327.2">## 零件繪製
-組合圖
+<t tx="leo.20190115194327.2">## 最終之運球系統
+
 &lt;img style="-webkit-user-select: none;cursor: zoom-in;" src="https://lh3.googleusercontent.com/NCOGm1fYWw9XkHNyiqcxWQfwxksrmS6Gjeoosd62KnsoVku25bulJGKovN2QmIE9FJzumslSvMlb7cyGLsdQZSRdVXCAbtbwuhqQFBW6u1xtzXwlBh8lknPQZJCLSffR-WP5H8dDYpMxUQ3M2b8n3cGtP3PIXdXd6h4elcav_6ncIBhSOP21xcuJ8h_Epl-bBsmx69S7uxd0W4PoGywRIXLA5A9tY0wBzwF2CyChndV7JlXQz7Ij8veWFcz_j9vA-hdzbXktODvJaHXlNf1xLSbnPQL8wOIVQ1eLwSVkg5e7HTX7DS3ooEQCMKiHphdiZ3tTNUdiamtjLn5is4VsUNXNfNlOj45Llx6yB3gj095-fGxBBe_jxsrUSI-RAVASPlnLDBwDXfHWJZ76UKl_D7wotJ0fBPzquKB6Nb3f6k_DeVtwMr6XTCG6paoWhzT5fhM7RkqkOWFn7GmnEdK419KQI2WkBAWIxT-45QmIJkGfIwXiIY4ozaLPZ8hcLTTZtGejWUBCzE8arw4qa7PkXZriHre6QQNzjf8ibSoMNcfhVcC24f9WNqmQRmY8HosFhwjZyA5mAR9HBApEcGuM09CRnGnO1hbaOVfDhW7zcGPYFwP9EUto8S5uwuKcaNPHOGV5oXj-e9v8m6rvHU8IAgbU=w747-h730-no" width="400" height="440"&gt;
 
 
@@ -637,5 +647,81 @@ make.start()
 </t>
 <t tx="leo.20190115200251.2">## 初次繪製
 初次繪製時因組員間還未完整討論整體機構設計，因此不採用初次設計之機構。</t>
+<t tx="leo.20190115201932.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190115201932.2">## 零件繪製
+鋼釘林
+&lt;img style="-webkit-user-select: none;" src="https://lh3.googleusercontent.com/CKvbdyHOKc8r5-VkjLqdYEA7HuAINArz-uvx1E0MqYaJNok-AL-7Ur5WjbHBrCriyAA9sKdtz9Qr5FN6GOqvfkCBk5in4YYx3xWhxzcN1smWxakDR99SRC16gMQdPC6z-MtSCmwfr0zhJGO7gaevXS1PuvrY78jI-5yDWqYZTQ98rdLl_YPbfx8h8_CxQsD2lR6gcz8QBWrwiicyq-JwCdCtMqz0zm1EhKjruOKwS4Rc3EHkZ69nhhVDOOTbqJltlB_5Crzwh6P07WAoDSF-jbnTbSjFmPbxdzMbq8aTrM2i4l4nGOBsxQnR4Ew1guMZKZVuR61Pl-5sma1RUGWChc2iksCN2pCGtY7Cp1KD6MVU7hTc7ZX7A-T8_WKCKUEuoOs6KrINoH8X4YDdcypHbDssgYtiy7Xwt14-t-LrY8HqphKef4yJ0aN9ZzBgwBhw4gE-t57eSHdCpYoxXkHPUFZ177sJ7FBEK4deJ3fX-HEuTaktOouRRJcQwpWjA6IRm7XqDK00NbmbTYku_2-ybdrAbSa24aPSs8VCgb4LYqiTMHNJ2cc99sc_qd__jTM73ve7EQepwIMaukW95EKDESoRf32nx38LzRZi9P0RAgJClKZVq1STWUa3-0Awv5PVggSb66JOrvMkVzlpxn3r8l3K=w640-h625-no"height="400"width="400"&gt;
+
+
+</t>
+<t tx="leo.20190115202447.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190115202447.2">## 零件繪製
+螺旋軌道1
+&lt;img style="-webkit-user-select: none;" src="https://lh3.googleusercontent.com/jNJU-Ca2yfs7IGnJIgWO7Ag9ukN9xinjk0zFtKhS3i7mo3kzqBPjEjsroDH75Zwmm5hhknyIricU1E-0R0kb0Tbr_ycOkx7JarQpIDcSI6gNyyWAFA4DwvAsm7CFtf-YGH6ouB8mkzp4KONJzcCkFs9cRCqbWYkwTgc21f_b_ziU--qan1SthM2X8-XTI8Eq2YPJBhufW0v708hQXzRofqMyV3gPH_oQGsKQ42icKbfXXyxTkol6ty3yT0oUEoCN9xGx8m7O4RV2NhlGh9Oj8_B9SnQ_z_rNDo7BHOXH003rZB4gfmBRMMgu-0rglDV7xoPtq84FxOgu1yuceKWgZN6LOLTl3HFPBcELb0d2sNg8nxexJuFv9kqkt9KMm0NO1gQTJw6gnFi8T0m7N7RW_BSSXTb4m7hNq1ouuiFa17hB3_G6ID64ezJGvIaAJH0iEi5sX9f8WuY3KDFoVsP-JAyU3u7ets_TL5seI_GE9Sef16H1SyQOIKmF-oEAye_eDqXApRK2crfNf97tLDwQJQrQGSvZ3SO3zfibtB8bbKVgWanDxgAu6PgfU9nCELGyAwidqiyauprIx8BPIb-yea-wJnaBLKxCtDYl9oracIOEI5isf2j21-SvgKdjni1H8OXS1b9utG5YlCbviRShREmb=w535-h671-no"width="100" height="200"&gt;
+
+
+
+
+</t>
+<t tx="leo.20190115202449.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190115202449.2">## 零件繪製
+螺旋軌道2
+&lt;img style="-webkit-user-select: none;" src="https://lh3.googleusercontent.com/B1NBQafrC7_VU0UGp4ul6QaEHWYRwuuupd-cKXFQdJbQ3C04ZRaOeb478zEMEZ2a1iMNl4atryKtUUFteqhna0EyPkbOwNrv_rrLV0WHNQks8-j_-jMdqgARblMtcgPZFnWNS7gUyw-wAEJWufMGtLfLAB5rPKgPGrosJwPi5oadwVmrZj0n2fbmuFc3gFbBWqk9hTepEw4GILsac_FiPPDKdD5c7TmqIIJef8lmn1kLeBniLpVN-sELUkeOCC5M290jwWbEXjjxElv3IbkL7lYqmyUZG3Rg_3Avyhy5s8utuor7ywOKfk_GZ_ewu89-ctDEvRERGydrBCJonWp9Jh2BmTJ93U_YxRwjrVZJFZFNDm9ZRnK-eYwK75vjjTYnf-IAD_bo2GdAEbGkHW6IWuONGKFU-UZzjHt5AOsr761nVVeUEkgjqf4DVcJNShCdWQgs9DfCtY5NFzQhv50-pK1b7_4QoX6PGtux1jobehMalwXmAwO1w9gKRdx3D46BR7jzjMXYNuV5VbMw5VpQTjEAgHq3O3Gnx6cvlL9coBiqDJmSsziig44I5_w0dHztZp9ExXLQpfb5ctrjD0vgjbSDGhtvlNnxUmXfYsCXvLrwdEX2pa7qPJYTXZZ-Mpj_If-HhEtOUByEbDxKxJwRFeBF=w354-h362-no"width="100" height="200"&gt;
+
+
+
+
+</t>
+<t tx="leo.20190115202451.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190115202451.2">## 零件繪製
+支撐桿
+&lt;img style="-webkit-user-select: none;" src="https://lh3.googleusercontent.com/9s-BRkF53TqNGUmQa1w2XkUZUO9Oh4yIlNMsLz22WssrPDm_1O-ZZQEN-Hhll_YcODHTVfzPV0MLi6YsIpicZkuP2yO8RZ7raHv9gUSzeIGFUJwtE3Mfx4XjmgGdm1xRda7r2n-nSqutpd4N7wu_nCFDSiaeK4cL3RuHVbLAMNvfRS34bSWEOcZ1oZgpu7DjndfDxPSGYg_9bk-eswutXaxrzavJGma5WsQVe06m6Y-b5D_z5TtZ7LTXdqOKWW4o2Xt2O9puAdsstRZDvLuS_qNSvhrMYXeYg59K_RHOVzcA0rx1C6zncSUZTNddr5SxdZkiZ_peDyv8g1wa6Lf7EsOIzYRAUVfC-e1oJ56aboJIY1bh4JmxEsxapO0wyg5eXcGsgbaz2R9qzwvq_6aJGXICnRTOPVLJtPGLTtbQObXLXjzX134AJq4Fq0npm6S45bKmhJMUKKwSd8yJfvf4x6TeBJkBbnZJj5CI4F1qG5gX9BCzMsReQNWhqxS0t-cfml_NbOBZnF1PokWd1qpa489Mi21VCz0vrvYQhHrXhzOnTdztd4V1jdLv0GtyLLNeoal2LmsukUUZeUNjY_uQyNGXcUap01kSFt_Q05WQKx62eauPL_IQUiuJgrCDMXlj7oxGlGxlyfkh7sIOapyFNEGF=w176-h720-no"height="200"width="200"&gt;
+
+&lt;img style="-webkit-user-select: none;cursor: zoom-in;" src="https://lh3.googleusercontent.com/IzxOc3VphiGVMb15hVf7hH9_lSkJOlPSvJgYoXdGB-Xpqn_tkMyMxI3RahP729EcPlXKAgZP7BlNjeGTqX7S8xWsscCHF3YWYcLcnAGwjUHJXtWju3DSUbZxm9VFJvZCUqjWr_e3rO78EZDvbkeCDNDtuqNM7xp-CHuyCXwTeYIkI8x4dKfV_XaACfZ0IxEVilI2YkDMNsus2j-mHsK_MmgwPJj5f69YjW4dDNP3YDrdWUXmsMBxad-qQgYDIC4zpRZ_aTGYVpSpSqtur-I49dUc-QVkw7ca3ccBkD9nR1c1cR7dU7MBIYqZmyjdTC_b6gXRCiCtQZDHiNLLPoZ6TFw2e2ax4M2cOMoPv7haW_uV2PdIyApB24jFozc7ayNP0xOu6_TWO1-RUfwRSaAFDTskTteC-WnESHE4rmAeH098b3ZcSozAZPnyzJhwqfaWERkeSTm4oQE98cm7OcsCOmss57aUXf33ksGZMR_8nScaB9w3LAZ-J_sGv0oVrDPTTfWOQzmbCVRtXrcp83gK6e-rdTWvG4f0iCn0yl4wDM5DpWL6D5lhj1qlyk6_HmWKNWYfLTMhHfSgVrp4ZffGlDS7CvfKTfUuPqzP8Rg0o6zil0XNzLDie2ukko4p2ZIQoQ7W8OMxOYZW1aP66_Yr5Hdh=w399-h739-no" width="100" height="200"&gt;
+
+
+
+
+</t>
 </tnodes>
 </leo_file>
