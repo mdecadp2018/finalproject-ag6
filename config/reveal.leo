@@ -57,7 +57,7 @@
 <v t="leo.20190115193151.1"><vh>零件繪製</vh>
 <v t="leo.20190115193151.2"><vh>原階梯機構</vh></v>
 </v>
-<v t="leo.20190115194327.1"><vh>零件繪製</vh>
+<v t="leo.20190115194327.1" a="E"><vh>零件繪製</vh>
 <v t="leo.20190115194327.2"><vh>組合圖</vh></v>
 </v>
 <v t="leo.20190111032927.1"><vh>零件繪製</vh>
@@ -605,8 +605,8 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190115194327.2">## 零件繪製
-組合圖
+<t tx="leo.20190115194327.2">## 最終之運球系統
+
 &lt;img style="-webkit-user-select: none;cursor: zoom-in;" src="https://lh3.googleusercontent.com/NCOGm1fYWw9XkHNyiqcxWQfwxksrmS6Gjeoosd62KnsoVku25bulJGKovN2QmIE9FJzumslSvMlb7cyGLsdQZSRdVXCAbtbwuhqQFBW6u1xtzXwlBh8lknPQZJCLSffR-WP5H8dDYpMxUQ3M2b8n3cGtP3PIXdXd6h4elcav_6ncIBhSOP21xcuJ8h_Epl-bBsmx69S7uxd0W4PoGywRIXLA5A9tY0wBzwF2CyChndV7JlXQz7Ij8veWFcz_j9vA-hdzbXktODvJaHXlNf1xLSbnPQL8wOIVQ1eLwSVkg5e7HTX7DS3ooEQCMKiHphdiZ3tTNUdiamtjLn5is4VsUNXNfNlOj45Llx6yB3gj095-fGxBBe_jxsrUSI-RAVASPlnLDBwDXfHWJZ76UKl_D7wotJ0fBPzquKB6Nb3f6k_DeVtwMr6XTCG6paoWhzT5fhM7RkqkOWFn7GmnEdK419KQI2WkBAWIxT-45QmIJkGfIwXiIY4ozaLPZ8hcLTTZtGejWUBCzE8arw4qa7PkXZriHre6QQNzjf8ibSoMNcfhVcC24f9WNqmQRmY8HosFhwjZyA5mAR9HBApEcGuM09CRnGnO1hbaOVfDhW7zcGPYFwP9EUto8S5uwuKcaNPHOGV5oXj-e9v8m6rvHU8IAgbU=w747-h730-no" width="400" height="440"&gt;
 
 
