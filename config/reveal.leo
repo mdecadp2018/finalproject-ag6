@@ -197,7 +197,7 @@ Created by [ag6](https://mdecadp2018.github.io/finalproject-ag6/content/index.ht
 
 [2018 Fall 分組網誌ag6](https://github.com/40623116/finalproject-ag6/tree/gh-pages)
 
-[Onshap](https://cad.onshape.com/documents/78e5b40f24c4fdb1a1973c8b/w/c465b43f35eededf385d77e3/e/a7bc9b4b807068fcfdd38660)
+[Onshape](https://cad.onshape.com/documents/78e5b40f24c4fdb1a1973c8b/w/c465b43f35eededf385d77e3/e/a7bc9b4b807068fcfdd38660)
 
 
 </t>
@@ -633,7 +633,9 @@ make.start()
 						
 </t>
 <t tx="leo.20190115195933.2">## 初次繪製
-&lt;img style="-webkit-user-select: none;" src="https://lh3.googleusercontent.com/cr5DvV_GL4p-6R633DWj7i8pjQ7RCWqQnD6ya7KXr3YWUoksjGlxqNnbw4ek3rqGGP52uKCYX4pWgtZ-KXPxbFlKIk2UoyQRovSj-YUHYbaMR3Vytdh3wRUUaFYhF2DaA_jHj0bMMiwHQ8O1i1H_enIX9v5ISNEhYuzFyzjCEKZ4H9-96Kh3Nd7MgtGkrB8hyiAepW-WsVrbtVm6w96KsiwHc0RFgETUacYMTjvutgNkuECveZ_z-t_p1NPQaPra8DeAQXZnpiff8WgOZJcQUXFLqBj8qXp5tzN38MTllZ1K5meD0bYnqBDSuhBDQgVF8_lVwdI9dQBmVwvvDJ5GRnOUrzpznRgL-cGfiRKd_47trVQnQ9dWc_8af1Ao7gZsRsTVguBjgCXPqZyIMyoW6MSdOrAzMW0Xjaq2mSkCSPra7Jwam5xJ9qj7C592uCtaVoZOln4QIjB4vpR56Ig-dljzo-uQ8uUPsm-hwWYs9SJwj_D75HSlQZfofJch0tDAJkLisG4_jGLIgJoty3Y4dseDJEhn-sVf6s5G9lCqr14pBpJZLvBTvkT8UfhTs0rIz6R6gQpi_kmpVcLi8XSYlxEgM6z-YdhP2SsE6X4vwkQoEkxtGQWRlgXNySeYU6FnLs68pGmvY5mMYg0FqJyHFy83=w862-h538-no"&gt;</t>
+&lt;img style="-webkit-user-select: none;" src="https://lh3.googleusercontent.com/cr5DvV_GL4p-6R633DWj7i8pjQ7RCWqQnD6ya7KXr3YWUoksjGlxqNnbw4ek3rqGGP52uKCYX4pWgtZ-KXPxbFlKIk2UoyQRovSj-YUHYbaMR3Vytdh3wRUUaFYhF2DaA_jHj0bMMiwHQ8O1i1H_enIX9v5ISNEhYuzFyzjCEKZ4H9-96Kh3Nd7MgtGkrB8hyiAepW-WsVrbtVm6w96KsiwHc0RFgETUacYMTjvutgNkuECveZ_z-t_p1NPQaPra8DeAQXZnpiff8WgOZJcQUXFLqBj8qXp5tzN38MTllZ1K5meD0bYnqBDSuhBDQgVF8_lVwdI9dQBmVwvvDJ5GRnOUrzpznRgL-cGfiRKd_47trVQnQ9dWc_8af1Ao7gZsRsTVguBjgCXPqZyIMyoW6MSdOrAzMW0Xjaq2mSkCSPra7Jwam5xJ9qj7C592uCtaVoZOln4QIjB4vpR56Ig-dljzo-uQ8uUPsm-hwWYs9SJwj_D75HSlQZfofJch0tDAJkLisG4_jGLIgJoty3Y4dseDJEhn-sVf6s5G9lCqr14pBpJZLvBTvkT8UfhTs0rIz6R6gQpi_kmpVcLi8XSYlxEgM6z-YdhP2SsE6X4vwkQoEkxtGQWRlgXNySeYU6FnLs68pGmvY5mMYg0FqJyHFy83=w862-h538-no"&gt;
+
+</t>
 <t tx="leo.20190115200251.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -646,7 +648,9 @@ make.start()
 						
 </t>
 <t tx="leo.20190115200251.2">## 初次繪製
-初次繪製時因組員間還未完整討論整體機構設計，因此不採用初次設計之機構。</t>
+初次繪製時因組員間還未完整討論整體機構設計，因此不採用初次設計之機構。
+
+</t>
 <t tx="leo.20190115201932.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
