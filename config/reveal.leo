@@ -21,7 +21,7 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
@@ -31,10 +31,10 @@
 <v t="leo.20190111022134.2"><vh>目的</vh></v>
 </v>
 <v t="leo.20190111044011.1" a="E"><vh>執行方法</vh>
-<v t="leo.20190111044011.3" a="E"><vh>執行方法</vh>
+<v t="leo.20190111044011.3"><vh>執行方法</vh>
 <v t="leo.20190111044011.2"><vh>執行方法</vh></v>
 </v>
-<v t="leo.20190111045025.1" a="E"><vh>執行方法</vh>
+<v t="leo.20190111045025.1"><vh>執行方法</vh>
 <v t="leo.20190111045025.3"><vh>分工</vh></v>
 </v>
 <v t="leo.20190111044011.5"><vh>每週進度</vh>
@@ -42,26 +42,32 @@
 </v>
 </v>
 <v t="leo.20190111024147.1" a="E"><vh>完成內容</vh>
-<v t="leo.20190111024147.2" a="E"><vh>完成內容</vh>
+<v t="leo.20190111024147.2"><vh>完成內容</vh>
 <v t="leo.20190111024147.3"><vh>完成內容</vh></v>
 </v>
 <v t="leo.20190111024147.4" a="E"><vh>零件繪製</vh>
-<v t="leo.20190111024147.5"><vh>組合圖</vh></v>
+<v t="leo.20190111024147.5"><vh>初繪草圖</vh></v>
+</v>
+<v t="leo.20190115194327.1" a="E"><vh>零件繪製</vh>
+<v t="leo.20190115194327.2"><vh>組合圖</vh></v>
 </v>
 <v t="leo.20190111032927.1"><vh>零件繪製</vh>
 <v t="leo.20190111032927.2"><vh>水車</vh></v>
 </v>
-<v t="leo.20190111033057.1" a="E"><vh>零件繪製</vh>
+<v t="leo.20190111033057.1"><vh>零件繪製</vh>
 <v t="leo.20190111033057.2"><vh>分球機構</vh></v>
 </v>
-<v t="leo.20190111062434.1" a="E"><vh>零件繪製</vh>
+<v t="leo.20190111062434.1"><vh>零件繪製</vh>
 <v t="leo.20190111062434.2"><vh>支撐桿</vh></v>
 </v>
-<v t="leo.20190111062436.1" a="E"><vh>零件繪製</vh>
+<v t="leo.20190111062436.1"><vh>零件繪製</vh>
 <v t="leo.20190111062436.2"><vh>上升裝置</vh></v>
 </v>
-<v t="leo.20190111062438.1" a="E"><vh>零件繪製</vh>
+<v t="leo.20190111062438.1"><vh>零件繪製</vh>
 <v t="leo.20190111062438.2"><vh>原階梯機構</vh></v>
+</v>
+<v t="leo.20190115193151.1" a="E"><vh>零件繪製</vh>
+<v t="leo.20190115193151.2"><vh>原階梯機構</vh></v>
 </v>
 </v>
 <v t="leo.20190111053330.1" a="E"><vh>pdf</vh>
@@ -165,6 +171,8 @@ QLineEdit#editorLabel {
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
 <t tx="leo.20180827201621.10">## ag6分組簡報
+##國立虎尾科技大學
+###題目:鋼球運動系統
 
 ### finalproject ag6
 
@@ -403,8 +411,8 @@ make.start()
 						
 </t>
 <t tx="leo.20190111024147.5">## 零件繪製
-組合圖
-&lt;img style="-webkit-user-select: none;cursor: zoom-in;" src="https://lh3.googleusercontent.com/NCOGm1fYWw9XkHNyiqcxWQfwxksrmS6Gjeoosd62KnsoVku25bulJGKovN2QmIE9FJzumslSvMlb7cyGLsdQZSRdVXCAbtbwuhqQFBW6u1xtzXwlBh8lknPQZJCLSffR-WP5H8dDYpMxUQ3M2b8n3cGtP3PIXdXd6h4elcav_6ncIBhSOP21xcuJ8h_Epl-bBsmx69S7uxd0W4PoGywRIXLA5A9tY0wBzwF2CyChndV7JlXQz7Ij8veWFcz_j9vA-hdzbXktODvJaHXlNf1xLSbnPQL8wOIVQ1eLwSVkg5e7HTX7DS3ooEQCMKiHphdiZ3tTNUdiamtjLn5is4VsUNXNfNlOj45Llx6yB3gj095-fGxBBe_jxsrUSI-RAVASPlnLDBwDXfHWJZ76UKl_D7wotJ0fBPzquKB6Nb3f6k_DeVtwMr6XTCG6paoWhzT5fhM7RkqkOWFn7GmnEdK419KQI2WkBAWIxT-45QmIJkGfIwXiIY4ozaLPZ8hcLTTZtGejWUBCzE8arw4qa7PkXZriHre6QQNzjf8ibSoMNcfhVcC24f9WNqmQRmY8HosFhwjZyA5mAR9HBApEcGuM09CRnGnO1hbaOVfDhW7zcGPYFwP9EUto8S5uwuKcaNPHOGV5oXj-e9v8m6rvHU8IAgbU=w747-h730-no" width="400" height="440"&gt;
+初繪草圖
+&lt;img style="-webkit-user-select: none;cursor: zoom-in;" src="https://lh3.googleusercontent.com/WVvhMtx_mFT6r75zqVt42YtT03C4qztGVotgEmfRsxW85SgzBu8NrVwQlSRkXgSl8y8PADYPtS1L09nG-hSEpHUZz20WUa7N0cB7HIT87llKTZzoSdfR7CFw9O7LOx0tQRTOnnFMxMVktHwxlSQzABvVpT7vD509YpyVZiZBjSGGhagyW9berGx15aQZauZ_UdlOHvPufTkqKdd3wDoIbCEvBMpSXqLu_QajT016vUuacR72ENJkQMjvPruotVezyx0aCuF_WSsUCtNne9L4cvldU9DNnjHIzAea1Qz2EXGrJz-W8g3JOsct4csd6T0xZvF2R8Suv_aigyXbN5vA2SL0bxCgJa1NyEOQ1tw1jMPeoCDEGpsBhDbfXLDvx-Psv5k-Qjf6XawSbtzTTLLlulfo_71c3rQ1KgcWseCgCe0HcxMebKJ_Tpy6NOuWRYUYwtahHcGhxtxMiUGbnBcm-mbrMKCA6CNEdncX_bbK4rsIT3HKp0XgRDL6nUvTv7muXD0E9pgbKYNH6lPoOEK4S2_hY6Azc5w4qnbHrLL55A5ylbbxLBh6p0dJsYzbcDCMIV-CnIIPjlO9V6YlPd8crsJxlI2i0Ta8LL7WUpN4fNqazIGe5KpgxNvvTraW3SgFWltfQpmsAJp05k-4TiJS4ms_=w1608-h904-no" width="981" height="551"&gt; 
 
 
 </t>
@@ -578,6 +586,40 @@ make.start()
 <t tx="leo.20190111062438.2">## 零件繪製
 原階梯機構
 &lt;img style="-webkit-user-select: none;" src="https://lh3.googleusercontent.com/wt6mNAOkkQdr8kHdFzTyNRxScfnrJlOWf--Yi6QeYbuIxdsvreGpn23cdMxCF1xTr6vID3DxuPhv8q5vJBtBSRCzXcl_tDH9jSZfn7SFXQbxwaRk8jc5TkKzKQ2nk6BJEdBF4fCuXeFezTYSg4-2ru1MAHt66VkiB-ka2oOH_ihJ4AcQyvI7Iqs0SiVUlLkP-f6atkFwJtCMol39wkR_rBy5oba2uYda2ZqEFvbGtY7TWn0mT4PAiU3gSKyfV_KaFZzuM2KowRTggAfmBG2f6U-52z-ZgL2-LJ9MDnLjfiUId8bKp5KxXN_cwUM69z_Q5qCWwj64UyDUtZgIEQ-jjqrLIbLzVzfe1CWfis6XBxLRUd4-jwnVv6ADg_rgb2WOLA4vn-JPAn7pAA3mOmvCdeFJF7gK8AnNBAlnjwrmo22kdMtcCRR9lZTWmskUnmymOywege0Vm27Sz5wN2Y6Sqx8rOJ5KhAt9uhYgFrA1Ly_UM13ZXawAOicUGBdxgMAQT0IBRW_rvsZ3ssaI4aSEdRaQBYwBO688SIl9qEVxN67eTWtUmnsQkCAxa3gPSg_4xscFDBTmQ-0iT_AnBYGUM3e5vNnRFMqtZeGf5pNbgPeznlHpnLB6rXRiwapNRSlPzvng3m3PiG8KLQ8A-X5yXYb6=w803-h637-no"height="400"width="400"&gt;
+
+
+</t>
+<t tx="leo.20190115193151.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190115193151.2">## 零件繪製
+原階梯機構，但因在運作v-rep時，發現設計不合，因此將上升階梯更換。
+&lt;img style="-webkit-user-select: none;" src="https://lh3.googleusercontent.com/wt6mNAOkkQdr8kHdFzTyNRxScfnrJlOWf--Yi6QeYbuIxdsvreGpn23cdMxCF1xTr6vID3DxuPhv8q5vJBtBSRCzXcl_tDH9jSZfn7SFXQbxwaRk8jc5TkKzKQ2nk6BJEdBF4fCuXeFezTYSg4-2ru1MAHt66VkiB-ka2oOH_ihJ4AcQyvI7Iqs0SiVUlLkP-f6atkFwJtCMol39wkR_rBy5oba2uYda2ZqEFvbGtY7TWn0mT4PAiU3gSKyfV_KaFZzuM2KowRTggAfmBG2f6U-52z-ZgL2-LJ9MDnLjfiUId8bKp5KxXN_cwUM69z_Q5qCWwj64UyDUtZgIEQ-jjqrLIbLzVzfe1CWfis6XBxLRUd4-jwnVv6ADg_rgb2WOLA4vn-JPAn7pAA3mOmvCdeFJF7gK8AnNBAlnjwrmo22kdMtcCRR9lZTWmskUnmymOywege0Vm27Sz5wN2Y6Sqx8rOJ5KhAt9uhYgFrA1Ly_UM13ZXawAOicUGBdxgMAQT0IBRW_rvsZ3ssaI4aSEdRaQBYwBO688SIl9qEVxN67eTWtUmnsQkCAxa3gPSg_4xscFDBTmQ-0iT_AnBYGUM3e5vNnRFMqtZeGf5pNbgPeznlHpnLB6rXRiwapNRSlPzvng3m3PiG8KLQ8A-X5yXYb6=w803-h637-no"height="400"width="400"&gt;
+
+
+</t>
+<t tx="leo.20190115194327.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190115194327.2">## 零件繪製
+組合圖
+&lt;img style="-webkit-user-select: none;cursor: zoom-in;" src="https://lh3.googleusercontent.com/NCOGm1fYWw9XkHNyiqcxWQfwxksrmS6Gjeoosd62KnsoVku25bulJGKovN2QmIE9FJzumslSvMlb7cyGLsdQZSRdVXCAbtbwuhqQFBW6u1xtzXwlBh8lknPQZJCLSffR-WP5H8dDYpMxUQ3M2b8n3cGtP3PIXdXd6h4elcav_6ncIBhSOP21xcuJ8h_Epl-bBsmx69S7uxd0W4PoGywRIXLA5A9tY0wBzwF2CyChndV7JlXQz7Ij8veWFcz_j9vA-hdzbXktODvJaHXlNf1xLSbnPQL8wOIVQ1eLwSVkg5e7HTX7DS3ooEQCMKiHphdiZ3tTNUdiamtjLn5is4VsUNXNfNlOj45Llx6yB3gj095-fGxBBe_jxsrUSI-RAVASPlnLDBwDXfHWJZ76UKl_D7wotJ0fBPzquKB6Nb3f6k_DeVtwMr6XTCG6paoWhzT5fhM7RkqkOWFn7GmnEdK419KQI2WkBAWIxT-45QmIJkGfIwXiIY4ozaLPZ8hcLTTZtGejWUBCzE8arw4qa7PkXZriHre6QQNzjf8ibSoMNcfhVcC24f9WNqmQRmY8HosFhwjZyA5mAR9HBApEcGuM09CRnGnO1hbaOVfDhW7zcGPYFwP9EUto8S5uwuKcaNPHOGV5oXj-e9v8m6rvHU8IAgbU=w747-h730-no" width="400" height="440"&gt;
 
 
 </t>
